@@ -1,0 +1,65 @@
+/*CSS FOR HEADER*/
+.nav-link{
+    color: black !important;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.navbar-brand img{
+    width: 80%;
+}
+
+
+/*CSS for slider*/
+.carousel-control-prev{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 275px;
+    left: 10px;
+    color: white;
+    font-size:30px ;
+} 
+.carousel-control-next{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 275px;
+    right: 10px;
+    color: white;
+    font-size:30px ;
+}
+
+
+/*CSS FOR INTRO*/
+.intro{
+    width: 800px;
+    padding: 84.719px 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    font-size: 27px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 48.6px;
+    color: #3e3d3d;
+}
+h4{
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 28.8px;
+    margin-bottom: 40px;
+}
+.card{
+    width: 70%;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 20px;
+    border: 1px solid #e1e0e0;
+}
+
+
+
